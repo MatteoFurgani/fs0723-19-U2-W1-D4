@@ -75,7 +75,7 @@ p {
 #task6:hover,
 #task7:hover,
 #task8:hover {
-  transform: scale(1.2);
-  transform: translate(10px, 10px);
+  transform: translate(10px, 10px) scale(1.2);
   box-shadow: 8px 13px 15px 5px #000000;
+  z-index: 1;
 }

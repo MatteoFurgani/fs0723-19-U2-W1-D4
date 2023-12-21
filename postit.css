@@ -1,3 +1,10 @@
+body {
+  width: 100%;
+}
+main {
+  margin: 1em;
+  background-color: gray;
+}
 h3 {
   font-size: 2em;
 }
